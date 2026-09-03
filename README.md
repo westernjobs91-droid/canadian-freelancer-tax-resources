@@ -3,7 +3,7 @@
 A practical guide for Canadian freelancers, contractors, and sole proprietors 
 filing taxes with the CRA.
 
-## T2125 — Statement of Business Activities
+## T2125 - Statement of Business Activities
 
 If you are self-employed in Canada, you file a T2125 as part of your personal 
 T1 return. This covers:
@@ -34,7 +34,7 @@ CRA requires a contemporaneous logbook for vehicle deductions. Each entry must i
 - Kilometres driven
 - Odometer readings (recommended)
 
-The logbook must be kept as you go — reconstructing it at year end is not accepted.
+The logbook must be kept as you go - reconstructing it at year end is not accepted.
 
 ## T2125 Vehicle Deduction Method
 
